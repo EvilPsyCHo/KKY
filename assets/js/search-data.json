@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Jupyter Notebook",
-            "content": "",
-            "url": "https://evilpsycho.github.io/KKY/jupyter/2021/08/10/jupyter-%E8%AE%A9%E4%BD%A0%E7%9A%84notebook%E6%9B%B4%E7%BE%8E%E8%A7%82.html",
-            "relUrl": "/jupyter/2021/08/10/jupyter-%E8%AE%A9%E4%BD%A0%E7%9A%84notebook%E6%9B%B4%E7%BE%8E%E8%A7%82.html",
+            "title": "让你的Jupyter Notebook更美观",
+            "content": "目录导航 | 背景字体 | . . &#30446;&#24405;&#23548;&#33322; . 如果你的文章很长，你可以给标题添加导航，方便读者直接进入喜欢的部分。 . Navagation: . 标题1 | 标题2 | . markdown Navagation: - [标题1](#1) - [标题2](##2) &lt;a id=&quot;1&quot;&gt;&lt;/a&gt; # 标题1 some content &lt;a id=&quot;2&quot;&gt;&lt;/a&gt; # 标题2 . . &#32972;&#26223;&#23383;&#20307; . 颜色背景作为分割 | . &lt;div style=&quot;background-color: blue&quot;&gt; &lt;br&gt; &lt;/div&gt; . 颜色背景+字体颜色 | . If you find this work useful, please don&#39;t forget upvoting :) . If you find this work useful, please don&#39;t forget upvoting :) . &lt;div style=&quot;background-color: pink; color: black&quot;&gt; &lt;h1 align=&quot;center&quot;&gt;If you find this work useful, please don&#39;t forget upvoting :)&lt;/h1&gt; &lt;h1 align=&quot;center&quot; style=&quot;color: white&quot;&gt;If you find this work useful, please don&#39;t forget upvoting :)&lt;/h1&gt; &lt;/div&gt; .",
+            "url": "https://evilpsycho.github.io/KKY/jupyter/datascience/2021/08/10/jupyter-%E8%AE%A9%E4%BD%A0%E7%9A%84notebook%E6%9B%B4%E7%BE%8E%E8%A7%82.html",
+            "relUrl": "/jupyter/datascience/2021/08/10/jupyter-%E8%AE%A9%E4%BD%A0%E7%9A%84notebook%E6%9B%B4%E7%BE%8E%E8%A7%82.html",
             "date": " • Aug 10, 2021"
         }
         
