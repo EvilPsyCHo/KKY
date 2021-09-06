@@ -14,7 +14,7 @@ github_repo: "KKY"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://EvilPsyCHo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.kky42.com" # the base hostname & protocol for your site, e.g. http://example.com; original https://EvilPsyCHo.github.io
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,7 +34,7 @@ url: "https://EvilPsyCHo.github.io" # the base hostname & protocol for your site
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/KKY" # the subpath of your site, e.g. "/blog".
+baseurl: "" # the subpath of your site, e.g. "/blog".  Original: /KKY
 
 # Github and twitter are optional:
 minima:
