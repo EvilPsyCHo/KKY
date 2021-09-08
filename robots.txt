@@ -1,1 +1,1 @@
-Sitemap: https://www.kky42.com/sitemap.xml
+Sitemap: http://www.kky42.com/sitemap.xml
