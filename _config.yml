@@ -14,7 +14,7 @@ github_repo: "KKY"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://www.kky42.com" # the base hostname & protocol for your site, e.g. http://example.com; original https://EvilPsyCHo.github.io
+url: "http://www.kky42.com" # the base hostname & protocol for your site, e.g. http://example.com; original https://EvilPsyCHo.github.io
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
